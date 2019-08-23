@@ -1,0 +1,51 @@
+,PosScore,NegScore,stemmed_version,trgts
+0,0.125,0.0,yap,Positive
+1,0.0,0.75,aciz,Negative
+2,0.25,0.0,doÄŸur,Positive
+3,0.5,0.0,kes,Positive
+4,0.5,0.0,tam uzun,Positive
+5,0.5,0.0,kes,Positive
+6,0.75,0.0,direk,Positive
+7,0.5,0.5,kayıt şart,Negative
+8,0.5,0.5,Ã¼st kapal,Negative
+9,0.125,0.0,son,Positive
+10,0.5,0.125,yaÅŸa,Positive
+11,0.25,0.5,bağı,Negative
+12,0.25,0.5,kÄ±yas,Negative
+13,0.375,0.0,em,Positive
+14,0.0,0.75,asimilasyon,Negative
+15,0.0,0.75,asim,Negative
+16,0.0,0.125,anlayış,Negative
+17,0.0,0.5,em ol,Negative
+18,0.0,0.5,dayanıklı,Negative
+19,0.0,0.5,it,Negative
+20,0.0,0.25,kimya,Negative
+21,0.5,0.0,em,Positive
+22,0.0,0.625,kanaatkar,Negative
+23,0.0,0.625,Ã§ekimser,Negative
+24,0.5,0.25,spar,Positive
+25,0.5,0.25,sade,Positive
+26,0.5,0.25,sof,Positive
+27,0.0,0.125,kaba,Negative
+28,0.0,0.125,do,Negative
+29,0.0,0.125,domuz,Negative
+30,0.0,0.125,öbür,Negative
+31,0.0,0.125,saygÄ±,Negative
+32,0.125,0.375,aşır aç göz,Negative
+33,0.375,0.0,kavra,Positive
+34,0.375,0.0,düş,Positive
+35,0.125,0.125,ideolojik,Negative
+36,0.625,0.25,beton,Positive
+37,0.0,0.25,bol,Negative
+38,0.0,0.25,bol,Negative
+39,0.125,0.0,zengin,Positive
+40,0.125,0.0,bereket,Positive
+41,0.25,0.625,kolay,Negative
+42,0.0,0.25,sefih,Negative
+43,0.0,0.25,coÅŸkun,Negative
+44,0.0,0.5,kal,Negative
+45,0.125,0.375,uzun,Negative
+46,0.125,0.5,yaygÄ±n,Negative
+47,0.125,0.5,aşır derec,Negative
+48,0.125,0.5,hadd fazl,Negative
+49,0.0,0.25,rÃ¼tbe,Negative
