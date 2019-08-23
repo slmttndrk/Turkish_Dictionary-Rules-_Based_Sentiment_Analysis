@@ -35,13 +35,13 @@ project is constructed on the combination of three sub projects.
 
 Turkish Rules. Because of inadequate Turkish resources, I examined the English resources that have words with their 
 
-polarities. Finally, I found the [SentiWordNet](https://github.com/aesuli/SentiWordNet/blob/master/data/SentiWordNet_3.0.0.txt). In this dataset, there are lots of words with their polarities. After 
+polarities. Finally, I found the SentiWordNet dataset. In this dataset, there are lots of words with their polarities. After 
 
 that, I started to process the dataset. At first, I smoothed the data and then translated the words into Turkish equivalents 
 
-using Google's Translation tool. Finally, I had 7864 [rules](https://github.com/slmttndrk/Turkish_Dictionary-Rules-_Based_Sentiment_Analysis/blob/master/classsifier/dictionary_of_rules_stemmed_with_verius_nlp_tools.csv) (words with their polarities). After setting rules, I stepped 
+using Google's Translation tool. Finally, I had sample [rules](https://github.com/slmttndrk/Turkish_Dictionary-Rules-_Based_Sentiment_Analysis/blob/master/classsifier/dictionary_of_rules_stemmed_with_verius_nlp_tools.csv) (words with their polarities). For more 
 
-into the second phase of my project.
+rules, please contact with [me](https://www.linkedin.com/in/selamettin-dirik/) After setting rules, I stepped into the second phase of my project.
 
 <br>
 
@@ -152,7 +152,7 @@ Eventually, our new Sklearn Classifier is built. Then, I stepped into the last p
 
 <br>
 
-*   The first rule is to get adequate dataset to train your model efficiently. Here, I have 4995 movie 
+*   The first rule is to get adequate dataset to train your model efficiently. Here, I have sample movie 
 
 critics from Beyazperde. You can find it from this [link](http://www.beyazperde.com/filmler/elestiriler-beyazperde/).
 
@@ -176,7 +176,7 @@ also splitted data preprocessing into sub steps.
 
 <br>
 		
-* [Dataset](https://github.com/slmttndrk/Turkish_Dictionary-Rules-_Based_Sentiment_Analysis/blob/master/sample_beyazperde_dataset.csv) is in the form of csv file
+* [Dataset](https://github.com/slmttndrk/Turkish_Dictionary-Rules-_Based_Sentiment_Analysis/blob/master/sample_beyazperde_dataset.csv) is in the form of csv file. For more dataset, please contact with [me](https://www.linkedin.com/in/selamettin-dirik/)
 
 <br>
 
